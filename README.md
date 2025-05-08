@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @AfranB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Afran B
 
-<!---
-AfranB/AfranB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Java Developer | Backend Engineer | Software Solutionist**
+
+---
+
+**Areas of Interest**
+
+* Java (Core, EE, and Spring Boot)
+* RESTful API Development
+* Microservices Architecture
+* Hibernate & JPA
+* SQL and NoSQL Databases
+* Scalable Backend Systems
+
+---
+
+**Currently Learning**
+
+* Spring Cloud & Distributed Systems
+* Kafka & Event-Driven Architecture
+* Docker & Kubernetes for Java Apps
+* Advanced JVM Performance Tuning
+
+---
+
+**Looking to Collaborate On**
+
+* Java-based enterprise solutions
+* Open-source backend projects
+* Cloud-native Java applications
+
+---
+
+**Contact**
+
+* Email: [afranb70@gmail.com](mailto:afranb70@gmail.com)
